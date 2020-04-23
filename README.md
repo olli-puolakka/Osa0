@@ -1,2 +1,2 @@
 # Osa0
-Osan 0 tehävät
+Osan 0 tehtävät
